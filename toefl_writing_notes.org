@@ -1,0 +1,83 @@
+
+* Synopsis
+** The Yello Textbook
+the main textbook;
+** The White Textbook
+contains language rhetorical usage.
+On the class we discuss the thinking process.
+This book discribes the rudimentary usage of rhetorics in the test.
+** Motto
+Practice makes perfect.
+Will practice a lot.
+** Lessons
+total count: 4
+* Lesson 1
+** Ice-breaking - What is the government's role? Helath : Economy
+*** The thinking process
+how to enrich the paragraph? how to manifest my subpoints
+*** The language process
+**** correctness
+common verbs - advocate
+translational errors emitted by coercing Chinese to English
+**** continuity - how the language flows
+As the society is developing rapidly, People neither have time to entertain themselves nor are left with time to be concerned with others.
+-- my version
+The rapid social development leads to less personal entertainment time and less time to concern others.
+**** focibility
+example:
+learning in nos helps to boost my efficiency
+my academic performance could not see the dramatic rise unless I learn here at NOS without taking courses here. ;;complete nonsense
+**** materials
+the bottleneck 
+*** example: how people botch their thinking in the test
+University student should take the test or not.
+
+'''
+University students are older enough to make their own
+  choose than primary students are.
+
+Because, in nowadays, technologies are explored, there
+is so much knowledge in each field that even putting all 
+their efforts on it, they could not master all the
+ knowledge. Forcing university students taking
+ history courses could be a waste of time.
+
+Also, university should choose the courses according
+to their interests. Only in this way, could they be 
+effective in every day's study. Therefore. the university
+ should not just regulate students taking the
+ history courses but give them the freedom of choosing
+ courses.
+'''
+
+** Individual Writing - Writing Structure
+*** Intro(30-80 words)
+*** Body Paragraph(Fully Developmed)(100-150words)
+*** Body Paragraph(Fully Developed)(100-150words)
+*** Body Para4(Conditional)
+*** Conclusion(20 words)
+** Intro Template
+*** Example: It's necessary for family members to have regular meals with each other
+When it comes to the issue whether (restate the problem) regular meals together with family members are quite essential,
+surely different people hold different views based on their divergent experiences, backgrounds and values.
+As for me, to have meals frequently with my parents and siblings is a MUST.
+** Conclusion Template
+Therefore, my idea is quite clear: even if I have to sacrifice some working and entertaining time, 
+I will try my best to ensure the frequency of dinining together with family members.
+
+* Type1 Question: To do or not to do
+** What is the benefit of A
+The professor should majorly educate students in college, rather than do researches.
+Students + 
+*** might gain deeper and more thorough understanding to the specific field when the professor is giving lectures.
+Eg. When I was in my freshman year, the subprime crisis broke out, which confused me quite a lot. How did it take place? 
+What's the subsequent effects to the society? Thus, I went to a lot of professors' courses, searched all sorts of books and journals. Disappointedly, however,
+I was still left unclear of this issue.
+This situation did not change until I went to the course of professor Jason, who was a senior researcher in the Chinese Economic Developing Center.
+It was after his course that I completely understood the correlation between the housing price,
+ people's expectations, the financial bubble and the subsequent financial crisis.
+Therefore, isn't it the best example that indicates the necessity for professors to engage in researches?
+*** Summary
+1. When fabricating personal experiences, do FORESHADOW - NARRATE - RESULT
+2. Collect materials (Very Important!). Materials proves to be very versatile.
+
