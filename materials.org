@@ -198,6 +198,7 @@ Environment, if damaged -> no tourists -> growth waning
 Environment -> damaged -> those with concern about life quality -> seek a better place
 
 **** Sp1.
+***** Environment's relationship with economy.
 In fact, the worse the environment is, the worse the economic condition might be,
 which is against many people's belief. Why is this so? With the poor environment,
 it is les likely that tourists will take a visit to the locality, which apparently
@@ -213,4 +214,46 @@ alter the policies and improve the environment -- impeding economical growth in 
 Thus, it would be far more efficient to protect the environment
 during economic development instead of heedlessly enforcing economical growth
 and prodding the elites to escape the country.
-*** Even if it can, X, there is negative impact
+
+If the E gets worsening off, talents, especially those who demand
+highly for high living quaslity, will leave this city or country, which leads to the lack of
+support for the economic construction.
+
+Unless the E is well-protected, talents will choose to
+
+what's worse, the deteriorating environment will inevitably drive away many talents,
+especially those who dcemand highly for exceptional living quality.
+As a consequence, there will be a lack of support for the economic
+construction of the economy.
+
+Therefore, now that the environment has everything to do with the
+economy, how could the government turn a blind eye to the environmental protection?
+*** Even if it can, X, damage to health
+**** Material: How environment pertains to health
+And let's not forget about the disastrous effect a poor environment could
+exert on our physical health. 
+
+* A government should focus its budget more on young children education than on universities
+** Sp1
+The primary education shapes students' thinking mode, learning habit and value
+and thus need heavy investment on great teachers and advanced 
+facilities. [Reference your materials directly]
+
+** Sp2
+Some people might argue that the college education
+is of even greater importance, because it is
+the bridge connecting the unvicersity and the society;
+so students need the best libraries and laboratory.
+These, surely, needs the governmental fund.
+Nonetheless, is the municipal fund the only financial support
+for the universities? Surely not, because there are still plenty of social investment,
+alumni donation, and so on to support the development of universities.
+
+* WTF - Should I go to NewTouhou or OldSihou
+** Diff within paragraphs
+Learning in NewTouhou .. Exp. .. but, in comparison, OldSihou's teacher
+only has a TOEFL 90 and they TEACH!
+** Inline Diff
+*** sp1 NewTouhou -- go
+*** sp2 some people say that OldSihou has better equipment
+
